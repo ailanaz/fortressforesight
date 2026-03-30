@@ -18,7 +18,7 @@ function Login() {
     <div className="login-page">
       <div className="login-card">
         <div className="login-logo">FortressForesight</div>
-        <p className="login-tagline">Protect your home before, during, and after disaster.</p>
+        <p className="login-tagline">Clarity before disaster. Structure during crisis. Confidence through recovery.</p>
 
         <div className="login-tabs">
           <button
