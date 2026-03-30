@@ -32,7 +32,9 @@ A fifth layer runs through everything: **Support** - plain-language explanations
 
 ## The Promise
 
-> *Clarity before disaster. Structure during crisis. Confidence through recovery.*
+> *FortressForesight gives homeowners clarity before disaster, structure during crisis, and confidence through recovery.*
+
+*Clarity before disaster. Structure during crisis. Confidence through recovery.*
 
 ---
 
